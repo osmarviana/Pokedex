@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="./public/design/desktop-design.gif](https://user-images.githubusercontent.com/29473781/180619084-a56960ab-7efa-4e34-9d33-4e3e581d62ff.png">
+<img src="./public/logo-pokedex.png">
 </div>
 
 A Pokédex é um aplicativo web que utiliza o PokéAPI para fornecer aos usuários informações sobre diferentes tipos de Pokémons. Ele permite que os usuários vejam diferentes Pokémons e vejam detalhes como suas habilidades, atributos e movimentos.
