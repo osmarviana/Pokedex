@@ -92,7 +92,7 @@ O projeto feito com React e utiliza o context API para alimentar as páginas, al
 
 <div align="left">
 
-  <a href="https://osmarviana.github.io/portifolio-osmarviana/" target="_blank">
+  <a href="https://osmarviana.github.io/portfolio-osmarviana/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-%23005422?style=for-the-badge&logo=github&logoColor=white" target="_blank" width="150px" height="35px">
   </a>
   </br>
