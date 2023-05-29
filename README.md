@@ -90,6 +90,8 @@ O projeto feito com React e utiliza o context API para alimentar as páginas, al
 
 ## 🔗Links
 
+Deploy: https://pokedex-dev-quest-osmarviana.vercel.app/
+
 <div align="left">
 
   <a href="https://osmarviana.github.io/portfolio-osmarviana/" target="_blank">
